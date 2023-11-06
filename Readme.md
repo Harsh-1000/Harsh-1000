@@ -17,7 +17,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsh-1000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-1000&theme=dark&hide_border=false)<br/>
+<p align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-1000&theme=dark&hide_border=false)<br/>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsh-1000&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
